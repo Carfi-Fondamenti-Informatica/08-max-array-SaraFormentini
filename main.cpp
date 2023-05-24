@@ -9,7 +9,8 @@ int main() {
     for (int i=0;i<dimensione; i++){
         cin>>numeri [i];
     }
-    cout<<array (numeri,dimensione);
+   float max=array(numeri,dimensione);
+    cout<<max;
 
     return 0;
 }
