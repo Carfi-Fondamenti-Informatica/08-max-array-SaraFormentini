@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    int dimensione=0;
+    int dimensione;
     cin>>dimensione;
     float numeri [dimensione];
     for (int i=0;i<dimensione; i++){
