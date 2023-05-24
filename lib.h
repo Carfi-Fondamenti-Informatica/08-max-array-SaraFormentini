@@ -1,1 +1,1 @@
-float array (float numeri [],int dimensione);
+float array (float [],int);
